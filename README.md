@@ -1,7 +1,9 @@
 **Overview**
+
 Facial recognition has become increasingly important in various applications such as security, user authentication, and social media tagging. This project employs a Siamese neural network, which is particularly effective for tasks involving similarity and verification. By training the model on a dataset of facial images, the system learns to distinguish between different individuals based on facial features.
 
 **Features**
+
 Siamese Network Architecture: Implements a dual-input structure that processes two images simultaneously to compute a similarity score.
 Deep Learning Framework: Utilizes TensorFlow/Keras for building and training the neural network.
 Custom Dataset: Trains the model on a curated dataset of facial images, allowing for effective learning of facial representations.
